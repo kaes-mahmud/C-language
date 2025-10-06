@@ -1,1 +1,2 @@
-# C-language gihub repo
+# C-practice daily
+

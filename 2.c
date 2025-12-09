@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    int i, k;
+
+    scanf("%d", &i);
+
+    k = pow (i,3);
+
+    printf("%d", k);
+
+    return 0;
+}
